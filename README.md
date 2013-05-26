@@ -25,3 +25,4 @@ nnoremap <silent> ,t :call Translate() <CR>
 就会有如下效果啦！
 
 
+Pictures/Screenshot from 2013-05-26 10:57:51.png
