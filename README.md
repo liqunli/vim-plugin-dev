@@ -24,4 +24,4 @@ nnoremap <silent> ,t :call Translate() <CR>
 
 就会有如下效果啦！
 
-![ScreenShot](https://raw.github.com/liqunli/vim-plugin-dev/master/screenshot.jpg)
+![ScreenShot](https://raw.github.com/liqunli/vim-plugin-dev/master/vim-plugin-dev/blob/master/Screenshot from 2013-05-26 10:57:51.png)
