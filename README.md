@@ -15,7 +15,7 @@ vim-plugin-dev
 
 nnoremap <silent> ,t :call Translate() <CR>
 
-很简单吧！当然，使用之前还需要到http://fanyi.youdao.com/openapi这里去申请一个自己的key（‘{‘和'}'不要），
+很简单吧！当然，使用之前还需要到http://fanyi.youdao.com/openapi 这里去申请一个自己的key（‘{‘和'}'不要），
 然后把trans.vim里面对应的地方替换掉就可以了，替换好后建议先在浏览器下试试对应的url能不能正常工作。
 如果一切顺利，那么
 
