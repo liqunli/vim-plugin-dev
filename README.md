@@ -20,8 +20,9 @@ nnoremap <silent> ,t :call Translate() <CR>
 如果一切顺利，那么
 
 :source $path/trans.vim
+
 :call Translate()
 
 就会有如下效果啦！
 
-![ScreenShot](https://raw.github.com/liqunli/vim-plugin-dev/master/vim-plugin-dev/blob/master/Screenshot from 2013-05-26 10:57:51.png)
+![ScreenShot](https://raw.github.com/liqunli/vim-plugin-dev/master/Screenshot%20from%202013-05-26%2010:57:51.png)
